@@ -1,4 +1,4 @@
-# Vim University
+# Vniversity
 
 Despite its reputation for minimalism, Vim has a surprising depth that rewards study. Here we list many of its most loved features, some tips, and a list of ideas for things to study or practice to take your Vim usage to the next level.
 
