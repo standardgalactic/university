@@ -263,9 +263,9 @@ Despite its reputation for minimalism, Vim has a surprising depth that rewards s
   - ["Vim Reference Guide" by Sundeep Agarwal](https://learnbyexample.github.io/vim_reference/)
 - Games and challenges:
   - [www.vimgolf.com](https://www.vimgolf.com/)
-  -[Elm Adventures](https://github.com/standardgalactic/elm-adventures)
-  -[Vim Adventures](https://github.com/standardgalactic/vim-adventures)
-  -[Keen with hjkl](https://github.com/standardgalactic/keen)
-  -[Descent with hjkl](https://github.com/standardgalactic/descent)
+  - [Elm Adventures](https://github.com/standardgalactic/elm-adventures)
+  - [Vim Adventures](https://github.com/standardgalactic/vim-adventures)
+  - [Keen with hjkl](https://github.com/standardgalactic/keen)
+  - [Descent with hjkl](https://github.com/standardgalactic/descent)
 
 
